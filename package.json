@@ -1,6 +1,6 @@
 {
   "name": "emoji_search",
-  "homepage": "http://kalpithavb.github.io/emoji_search",
+  "homepage": "http://kalpithavb.github.io/emojipedia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
